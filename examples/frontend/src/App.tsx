@@ -57,7 +57,7 @@ function App() {
         </Box>
       </Flex>
 <Card style={{ marginBottom: '2rem' }}>
-  <div style={{ textAlign: 'center' }}>
+  <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
     <img
       src="https://avatars.githubusercontent.com/sipalingnode"
       alt="GitHub Profile"
