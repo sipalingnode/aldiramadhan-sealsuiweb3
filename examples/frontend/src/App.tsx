@@ -33,6 +33,7 @@ function LandingPage() {
       <p>5. Upload file</p>
       <p>6. Click 'First step: Encrypt and upload to Walrus'</p>
       <p>7. Click 'Second step: Associate file to Sui object'</p>
+      <p>8. Done</p>
     </div>
           <Link to="/allowlist-example">
             <Button size="3">Try it</Button>
@@ -44,6 +45,17 @@ function LandingPage() {
           <div style={{ textAlign: 'center' }}>
             <h2>TRY Subscription</h2>
           </div>
+                        <div style={{ textAlign: 'left' }}>
+      <h3>Tutorial</h3>
+      <p>1. Click 'Try it'</p>
+      <p>2. Enter Price in Mist</p>
+      <p>3. Subscription duration in minutes</p>
+      <p>4. Name of the Service</p>
+      <p>5. Click Create Service</p>
+      <p>6. Click 'this link'</p>
+      <p>7. Click and Download Decrypt</p>
+      <p>8. Done</p>
+    </div>
           <Link to="/subscription-example">
             <Button size="3">Try it</Button>
           </Link>
