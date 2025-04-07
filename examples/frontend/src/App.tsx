@@ -24,6 +24,16 @@ function LandingPage() {
           <div style={{ textAlign: 'center' }}>
             <h2>TRY Allowlist</h2>
           </div>
+              <div style={{ textAlign: 'left' }}>
+      <h3>Tutorial Allowlist</h3>
+      <p>1. Click 'Try it'</p>
+      <p>2. Create Your Name Allow List</p>
+      <p>3. Add New Sui Wallet</p>
+      <p>4. Select Walrus service</p>
+      <p>5. Upload file</p>
+      <p>6. Click 'First step: Encrypt and upload to Walrus'</p>
+      <p>7. Click 'Second step: Associate file to Sui object'</p>
+    </div>
           <Link to="/allowlist-example">
             <Button size="3">Try it</Button>
           </Link>
