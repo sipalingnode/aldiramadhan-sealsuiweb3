@@ -25,7 +25,7 @@ function LandingPage() {
             <h2>TRY Allowlist</h2>
           </div>
               <div style={{ textAlign: 'left' }}>
-      <h3>Tutorial Allowlist</h3>
+      <h3>Tutorial</h3>
       <p>1. Click 'Try it'</p>
       <p>2. Create Your Name Allow List</p>
       <p>3. Add New Sui Wallet</p>
